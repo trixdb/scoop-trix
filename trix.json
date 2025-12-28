@@ -1,0 +1,15 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/trixdb/trix-cli-go/releases/download/v0.3.0/trix_0.3.0_windows_x86_64.zip",
+            "bin": [
+                "trix.exe"
+            ],
+            "hash": "f8b7b5300d826e5b704c197a02ab1c9b83a4665c0195cd0fe820b7adb30cf5bb"
+        }
+    },
+    "homepage": "https://trixdb.com",
+    "license": "Proprietary",
+    "description": "Trix CLI - A universal memory layer for AI agents and humans"
+}
