@@ -2,11 +2,11 @@
     "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/trixdb/trix-cli-go/releases/download/v0.3.0/trix_0.3.0_windows_x86_64.zip",
+            "url": "https://github.com/trixdb/trix/releases/download/v0.3.0/trix_0.3.0_windows_x86_64.zip",
             "bin": [
                 "trix.exe"
             ],
-            "hash": "f8b7b5300d826e5b704c197a02ab1c9b83a4665c0195cd0fe820b7adb30cf5bb"
+            "hash": "d1a21014c87991a210345a25749a8591672f9b879dadf9732f984f8801652da6"
         }
     },
     "homepage": "https://trixdb.com",
