@@ -1,12 +1,12 @@
 {
-    "version": "0.4.15",
+    "version": "0.4.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/trixdb/trix/releases/download/v0.4.15/trix_0.4.15_windows_x86_64.zip",
+            "url": "https://github.com/trixdb/trix/releases/download/v0.4.16/trix_0.4.16_windows_x86_64.zip",
             "bin": [
                 "trix.exe"
             ],
-            "hash": "46b516e6f605823c1ceaeb87ca76dd032e0d14391d9dcce5817fa1555c159258"
+            "hash": "145029aac388b994ac392916bf9dcfdf22d20b49a2f5586063ae4989f320c293"
         }
     },
     "homepage": "https://trixdb.com",
